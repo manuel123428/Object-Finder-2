@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    background-color: rgb(73, 106, 255);
+}
+#toFind{
+    width: 300px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
